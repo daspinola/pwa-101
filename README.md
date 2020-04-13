@@ -25,6 +25,6 @@ To test using Chrome with invalid certs use the following to open the browser:
 
 ## Contributing
 
-This is a reference repository for this [article](--missing-link-waiting-for-logrocket) so I will only look into accept any bug fix or improvement that doesn't vastly change the current content.
+This is a reference repository for this [article](https://blog.logrocket.com/how-to-build-a-progressive-web-app-pwa-with-node-js/) so I will only look into accept any bug fix or improvement that doesn't vastly change the current content.
 
 On the other hand, you're encouraged to fork and improve it in your own repository, let me know what you come up with ^^.
