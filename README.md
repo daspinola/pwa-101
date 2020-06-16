@@ -6,7 +6,7 @@ This is an intro project for progressive web apps that pass 100% in Google Light
 
 - Clone the repository
 - In the terminal install the dependencies with `npm install`
-- Run `npm run start-debug`
+- Run `npm run server-debug`
 
 If you need to generate the certs you can use:
 
